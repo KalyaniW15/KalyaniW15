@@ -1,8 +1,9 @@
 ### Hi there 
 - 👋 Hi,I’m Kalyani Waghaye
 - 👀 I'm interested in Problem Solving, Data Analyst,Machine Learning,& Exploratory Data Analysis 
-- 🌱 I’m currently learning Python,Github,& Open Source.
+- 🌱 I’m currently learning more about Python,Github,& Open Source.
 - 👯 I’m open to collaborate.
+-  😄 Pronouns: she/her
 - 📫 Reach me: kalyaniwaghaye07@gmail.com, www.linkedin.com/in/
 kalyaniwaghaye
 
