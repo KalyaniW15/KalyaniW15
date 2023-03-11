@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 
+- 👋 Hi,I’m Kalyani Waghaye
+- 👀 I'm interested in ProblemSolving,Data Analyst,& Machine Learning
+- 🌱 I’m currently learning Python,Github,& Open Source.
+- 👯 I’m open to collaborate.
+- 📫 Reach me: kalyaniwaghaye07@gmail.com
+
 
 <!--
 **KalyaniW15/KalyaniW15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
