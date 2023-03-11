@@ -1,6 +1,6 @@
 ### Hi there 
 - 👋 Hi,I’m Kalyani Waghaye
-- 👀 I'm interested in Problem Solving, Data Analyst,& Machine Learning
+- 👀 I'm interested in Problem Solving, Data Analyst,& Machine Learning,EDA 
 - 🌱 I’m currently learning Python,Github,& Open Source.
 - 👯 I’m open to collaborate.
 - 📫 Reach me: kalyaniwaghaye07@gmail.com, www.linkedin.com/in/
