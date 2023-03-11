@@ -3,7 +3,10 @@
 - 👀 I'm interested in Problem Solving, Data Analyst,& Machine Learning
 - 🌱 I’m currently learning Python,Github,& Open Source.
 - 👯 I’m open to collaborate.
-- 📫 Reach me: kalyaniwaghaye07@gmail.com
+- 📫 Reach me: kalyaniwaghaye07@gmail.com, www.linkedin.com/in/
+kalyaniwaghaye
+
+
 
 
 <!--
